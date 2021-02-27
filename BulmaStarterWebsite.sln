@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulmaStarterWebsite", "BulmaStarterWebsite.csproj", "{69D50E60-C776-4485-9E72-BA0D75F07ED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D50E60-C776-4485-9E72-BA0D75F07ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D50E60-C776-4485-9E72-BA0D75F07ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D50E60-C776-4485-9E72-BA0D75F07ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D50E60-C776-4485-9E72-BA0D75F07ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F7D628E-DC0A-461C-B974-D42E06EE0F4A}
+	EndGlobalSection
+EndGlobal
